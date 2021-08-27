@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: private
+  is_correct: false
+- text: abstract
+  is_correct: true
+- text: static
+  is_correct: false
+- text: None of the above
+  is_correct: false
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Main.java
+  visible: true

@@ -1,0 +1,12 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: FIFO(First In First Out)
+  is_correct: true
+- text: LILO (Last In Last Out)
+  is_correct: false
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Main.java
+  visible: true

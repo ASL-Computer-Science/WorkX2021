@@ -1,0 +1,11 @@
+type: edu
+files:
+- name: src/Task.java
+  visible: true
+  placeholders:
+  - offset: 181
+    length: 849
+    placeholder_text: /* Use the methods in the Passenger class as well as the two
+      given data structures to solve this problem.*/
+- name: test/Tests.java
+  visible: false

@@ -1,0 +1,14 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: "[2,3,4]"
+  is_correct: true
+- text: "[1,2,3]"
+  is_correct: false
+- text: "[1,2,3,4]"
+  is_correct: false
+message_correct: Congratulations, the remove method removes the element at the head of the queue!
+message_incorrect: Incorrect solution
+files:
+- name: src/Main.java
+  visible: true
