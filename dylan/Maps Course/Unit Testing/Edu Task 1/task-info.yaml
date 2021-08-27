@@ -1,0 +1,10 @@
+type: edu
+files:
+- name: src/Task.java
+  visible: true
+  placeholders:
+  - offset: 135
+    length: 197
+    placeholder_text: /* Write your code here */
+- name: test/Tests.java
+  visible: false
